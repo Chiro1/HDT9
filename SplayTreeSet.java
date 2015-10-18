@@ -1,4 +1,3 @@
-
 //Crhistopher Chiroy
 //Boris Cifuentes
 //Diego de León
@@ -8,11 +7,11 @@
 //Hoja de trabajo 9
 
 
-public class SplayTree implements WordSet
+public class SplayTreeSet implements WordSet
 {
     private BinaryNode root;
 
-    public SplayTree() {
+    public SplayTreeSet() {
         root = null;
     }
 
@@ -199,4 +198,3 @@ public class SplayTree implements WordSet
     }
 
 }
-
